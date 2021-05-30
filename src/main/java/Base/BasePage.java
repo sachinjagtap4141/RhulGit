@@ -35,6 +35,18 @@ public class BasePage {
 				}
 //				System.out.println(this.getClass());
 				
+	
+				System.out.println("Adding by another");
+				System.out.println("Adding by another");
+				
+				System.out.println("Adding by another");
+				
+				System.out.println("Adding by another");
+				System.out.println("Adding by another");
+				
+				
+				
+				
 				
 	}
 	
