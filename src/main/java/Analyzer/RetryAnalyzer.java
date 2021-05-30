@@ -17,4 +17,16 @@ public class RetryAnalyzer implements IRetryAnalyzer{
 		return false;
 	}
 
+	
+	public void architect() {
+		System.out.println("Architect change");
+		
+		System.out.println("Architect change");
+		System.out.println("Architect change");
+		System.out.println("Architect change");
+		
+		
+	}
+	
+	
 }
