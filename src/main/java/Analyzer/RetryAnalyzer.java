@@ -20,7 +20,11 @@ public class RetryAnalyzer implements IRetryAnalyzer{
 	
 	public void architect() {
 		System.out.println("Architect change");
-		
+
+		System.out.println("Architect change");
+		System.out.println("Architect change");
+		System.out.println("Architect change");
+
 		System.out.println("Architect change");
 		System.out.println("Architect change");
 		System.out.println("Architect change");
